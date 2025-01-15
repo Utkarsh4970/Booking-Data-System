@@ -13,7 +13,7 @@ This is a Node.js and Express-based backend service for ingesting and managing b
 1. **Clone the Repository**
 
    ```bash
-   git clone <(https://github.com/Utkarsh4970/Booking-Data-System.git)>
+   git clone <https://github.com/Utkarsh4970/Booking-Data-System.git>
    cd <booking-system-data>
 2. **npm install**
 3.  **node server.js**
